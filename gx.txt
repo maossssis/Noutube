@@ -18,10 +18,10 @@
 [BUTTON:联系作者:END] 
 
 
-[OPENURL:mqqapi://card/show_pslcard?uin=961755167:END]          
+[OPENURL:mqqapi://card/show_pslcard?uin=1916146981:END]          
 
 
-[BUTTON1:朕知道了:END] 
+[BUTTON1:知道了:END] 
 
 
 [OPENURL1::END]
@@ -30,7 +30,7 @@
 [BUTTON2:进群反馈:END]
 
 
-[OPENURL2:664592336:END]
+[OPENURL2::END]
 
 
 :END}
@@ -62,7 +62,7 @@
 :END]
 
 
-[DOWNLOADURL:http://ss.uixsj.cn/com.MyFusApp.kujiruqiu.apk  :END] --新版本下载地址
+[DOWNLOADURL:  :END] --新版本下载地址
 
 
 [FORCE:TRUE:END]--强制更新
