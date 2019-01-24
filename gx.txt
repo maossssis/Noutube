@@ -9,7 +9,7 @@
 [TITLE:【告示】:END]
 
 
-[MESSAGE:本应用暂时停用
+[MESSAGE:小毛蛋吴没牛还钱
 
 
 :END]      
@@ -46,7 +46,7 @@
 {UPDATE:
 
 
-[VERSION:32:END] --内部版本号2
+[VERSION:33:END] --内部版本号32
 
 
 [CHANGELOG:
