@@ -9,7 +9,7 @@
 [TITLE:【告示】:END]
 
 
-[MESSAGE:小毛蛋吴没牛还钱 !
+[MESSAGE:勿滥用!
 
 
 :END]      
@@ -46,7 +46,7 @@
 {UPDATE:
 
 
-[VERSION:34:END] --内部版本号33
+[VERSION:33:END] --内部版本号33
 
 
 [CHANGELOG:
