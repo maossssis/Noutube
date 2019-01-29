@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Noutube-牛管
 
-Noutube-牛管
+使用fusionapp开发
 
 
 
@@ -17,3 +17,7 @@ Noutube-牛管
 
 
  [下载最新版](https://github.com/maossssis/Noutube/blob/master/%E7%89%9B%E7%AE%A1_b0.35.apk?raw=true).
+
+
+
+You2php&node-unblocker
