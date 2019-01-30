@@ -18,7 +18,7 @@
 [BUTTON:联系作者:END] 
 
 
-[OPENURL:mqqapi://card/show_pslcard?uin=1916146981:END]          
+[OPENURL:mqqapi://card/show_pslcard?uin=2107984013:END]          
 
 
 [BUTTON1:知道了:END] 
@@ -46,22 +46,22 @@
 {UPDATE:
 
 
-[VERSION:34:END] --内部版本号34
+[VERSION:35:END] --内部版本号35
 
 
 [CHANGELOG:
 
-----------------
-----------------
-----------------#
-----------------
+----------------又
+----------------更
+----------------了
+----------------¥
 ※请立即更新！否则无法使用！※
 ________________
 
 :END]
 
 
-[DOWNLOADURL: https://github.com/maossssis/Noutube/raw/master/%E7%89%9B%E7%AE%A1_b0.35.apk :END] --新版本下载地址
+[DOWNLOADURL: https://github.com/maossssis/Noutube/raw/master/%E7%89%9B%E7%AE%A1_b0.41.apk:END] --新版本下载地址
 
 
 [FORCE:TRUE:END]--强制更新
