@@ -16,7 +16,7 @@
 
 
 
- [下载最新版](https://github.com/maossssis/Noutube/blob/master/%E7%89%9B%E7%AE%A1_b0.35.apk?raw=true).
+ [下载最新版](https://github.com/maossssis/Noutube/raw/master/%E7%89%9B%E7%AE%A1_b0.41.apk?raw=true).
 
 
 
