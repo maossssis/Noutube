@@ -9,7 +9,7 @@
 [TITLE:卐:END]
 
 
-[MESSAGE:卐
+[MESSAGE:卐新年新气象
 
 :END]      
 
@@ -45,7 +45,7 @@
 {UPDATE:
 
 
-[VERSION:35:END] --内部版本号35
+[VERSION:36:END] --内部版本号36
 
 
 [CHANGELOG:
@@ -60,7 +60,7 @@ ________________
 :END]
 
 
-[DOWNLOADURL: https://github.com/maossssis/Noutube/raw/master/%E7%89%9B%E7%AE%A1_b0.41.apk:END] --新版本下载地址
+[DOWNLOADURL: https://github.com/maossssis/Noutube/raw/master/%E7%89%9B%E7%AE%A1_b0.42(036).apk?raw=true:END] --新版本下载地址
 
 
 [FORCE:TRUE:END]--强制更新
