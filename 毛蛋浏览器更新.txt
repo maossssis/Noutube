@@ -45,7 +45,7 @@
 {UPDATE:
 
 
-[VERSION:22:END] --内部版本号22
+[VERSION:23:END] --内部版本号23
 
 
 [CHANGELOG:
@@ -60,7 +60,7 @@ ________________
 :END]
 
 
-[DOWNLOADURL: https://github.com/maossssis/Noutube/raw/master/%E6%AF%9B%E8%9B%8B%E6%B5%8F%E8%A7%88%E5%99%A8_0.83(022)_sign.apk:END] --新版本下载地址
+[DOWNLOADURL: https://github.com/maossssis/Noutube/raw/master/%E6%AF%9B%E8%9B%8B%E6%B5%8F%E8%A7%88%E5%99%A8_0.84(023)_sign.apk:END] --新版本下载地址
 
 
 [FORCE:TRUE:END]--强制更新
