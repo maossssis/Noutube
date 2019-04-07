@@ -6,10 +6,10 @@
 {NOTICE:
 
 
-[TITLE:卐:END]
+[TITLE:社会主义核心价值观:END]
 
 
-[MESSAGE:欢迎来到养老院，请勿辱骂他人
+[MESSAGE:富强民族文明和谐自由平等公正法制爱国敬业诚信友善
 
 :END]      
 
@@ -45,7 +45,7 @@
 {UPDATE:
 
 
-[VERSION:20:END] --内部版本号20
+[VERSION:21:END] --内部版本号21
 
 
 [CHANGELOG:
@@ -54,13 +54,13 @@
 ----------------更
 ----------------了
 ----------------¥
-※应用已停用※
+※请在qq群更新文件※
 ________________
 
 :END]
 
 
-[DOWNLOADURL: https://github.com/maossssis/Noutube/raw/master/%E7%89%9B%E7%AE%A1_b0.42(036).apk?raw=true:END] --新版本下载地址
+[DOWNLOADURL::END] --新版本下载地址
 
 
 [FORCE:TRUE:END]--强制更新
